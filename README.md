@@ -1,2 +1,2 @@
 # HTML-CSS-JavaScript
-Final Project HTML-CSS-JavaScript
+Final Project Landing page HTML-CSS-JavaScript
